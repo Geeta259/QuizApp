@@ -199,6 +199,8 @@ This Quiz Application is built using Spring Boot and provides an API for managin
       - Replace `{id}` with the `userId`.
 
 ---
-
+### Folder Structure
+- **QuizApp/src/main/java/com/quiz/**
+  - This folder contains the main application class (`QuizApplicationApplication.java`), controllers, DAOs, entities, and other components required for the project.
 
 ---
